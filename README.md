@@ -1,0 +1,2 @@
+# SOLID Demo
+Demonstrator based on the [Solid Community Server](https://github.com/CommunitySolidServer/CommunitySolidServer) following the instructions located at https://communitysolidserver.github.io/CommunitySolidServer/7.x/
